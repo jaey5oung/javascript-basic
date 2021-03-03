@@ -134,3 +134,4 @@ function calculate(command, a, b) {
 console.log(calculate('add', 2, 3));
 
 //정해진 데이터를 처리하는것은 스위치문이 더 좋다
+//function 다시반복
