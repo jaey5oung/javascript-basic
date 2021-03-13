@@ -16,3 +16,5 @@ function suprise(op){
     console.log(result3);
     }
 suprise(divide)
+
+//다시시작
